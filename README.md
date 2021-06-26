@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
-<h3 align="center">soy una persona autodidacta a la cual le encanta aprender y ayudar a que puedan aprender. Me gusta innovar en cualquier lugar o puesto en el cual me deba desempeñar. Actualmente presto servicios como Ssr Analyst en Correo Argentino en el área de IT, a su vez soy tutor en CoderHouse en la carrera de Frontend en el área de Desarrollo Web. Estoy estudiando para ser Full Stack en el instituto CoderHouse. Tengo afinidad por Linux, aunque en el día a día utilizo Windows. Una de mis metas es poder desarrollarme y obtener el mayor conocimiento de las distintas áreas de IT.</h3>
+<h3 align="center">Soy una persona autodidacta a la cual le encanta aprender y ayudar a que puedan aprender. Me gusta innovar en cualquier lugar o puesto en el cual me deba desempeñar. Actualmente presto servicios como Ssr Analyst en Correo Argentino en el área de IT, a su vez soy tutor en CoderHouse en la carrera de Frontend en el área de Desarrollo Web. Estoy estudiando para ser Full Stack en el instituto CoderHouse. Tengo afinidad por Linux, aunque en el día a día utilizo Windows. Una de mis metas es poder desarrollarme y obtener el mayor conocimiento de las distintas áreas de IT.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
